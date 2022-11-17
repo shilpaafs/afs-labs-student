@@ -1,3 +1,4 @@
+-- LATEST UPDATES
 -- DAY 4 SETUP 2
 -- PostgreSQL database dump
 --
