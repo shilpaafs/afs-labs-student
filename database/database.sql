@@ -1,4 +1,4 @@
---
+-- DAY 4 SETUP
 -- PostgreSQL database dump
 --
 
